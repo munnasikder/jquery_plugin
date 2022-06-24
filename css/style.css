@@ -1,0 +1,36 @@
+h1{
+	padding: 20px 0;
+}
+.single{
+	padding: 50px 0;
+	background-color: skyblue;
+}
+.box{
+	min-height: 400px;
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+#text1{
+    overflow: hidden;
+    color: #ffffff;
+    background-color: #3fafee;
+}
+.aos_box{
+	font-size: 24px;
+	font-weight: 700;
+	margin: 20px 0;
+	min-height: 100px;
+	color: white;
+	background-color: darkgray;
+}
+.grid{
+	width: 100%;
+}
+.grid img{
+	display: inline-block;
+	width: 100%;
+	margin: 10px 10px;
+	padding: 10px 10px;
+}
